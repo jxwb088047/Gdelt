@@ -1,0 +1,61 @@
+2013-07~12
+http://deltafarmpress.com/cotton/where-will-cotton-prices-go-china-abandons-stockpiles
+
+Where will cotton prices go as China abandons stockpiles? | Cotton content from Delta Farm Press
+China has decided to scrap its cotton stockpiling program in favor of subsidizing its domestic producers. The plan will not likely have a short-term impact on U.S. cotton prices. Cotton producers may need to be more cautious in marketing cotton in the future, depending on how China decides to unwind its reserve.
+For the short term, cotton producers will likely not have to worry about a large dip in prices because of the Chinese dumping inventory of cotton, but should be more cautious about this and other looming hurdles for cotton prices next spring, says Kelli Merritt, cotton producer, broker and merchant from west Texas, speaking at the Ag Market Network’s September conference call.
+Merritt said the Chinese plan to ditch their stockpiling scheme in favor of subsidies to farmers is part of a calculated plan. “I will continue to believe that the Chinese don’t just fall into these awkward situations. They plan in advance how they’re going to do it, and then methodically act out their plan. They appear haphazard, but I really don’t believe they are.
+“They protect their farmers because they really can’t afford to enact policies that encourage more rioting in Xinjiang and other areas. They protect their spinning industry for the same reason.”
+Merritt says one option for moving from stockpiling to subsidizing is the use of a target price similar to one used in the Unites States that supplements a farmer’s income if the market drops below a reference price.
+“One problem with a subsidy program in China is that Chinese farmers are small and isolated, and making a subsidy payment to each and every farmer in an equitable fashion can be very difficult,” Merritt said. “In other words, they don’t have a well-oiled machine like the Farm Service Agency to keep it all straight.
+The Chinese could stop the stockpiling program by lowering auction prices, which could make domestic cotton cheaper than imported U.S. cotton, Merritt said, “even when done outside the quota system with additional tariffs added. So there are a lot of questions on how they are going to implement the plan.”
+Merritt said China’s Ministry of Finance wants to discontinue the program partly because they are tired of paying out the money (around $33 billion), and partly to protect the textile industry. “It’s one of the many moves the government is making to reduce expenditures, reduce loans and aid economic growth. By allowing the reserve auctions to be offered at lower prices would help spinners buy U.S. and other growths at closer to world prices than where they are now.
+“The Chinese “always have to walk a delicate tightrope between supporting farmers so much that they hurt the spinners and vice versa. And they have millions of workers to think about.”
+Merritt added that the Chinese don’t have to start dumping cotton to drive prices down. “All they have to do is stop buying cotton.”
+Merritt says the world should know the specifics of the new policy within a few months. “But some say there won’t be an announcement, that they will suddenly issue some more quotas to mills,” Merritt says.
+“All this is setting up an environment for the Chinese spinning industry to continue moving to other Pacific Rim countries, like Pakistan, India, Vietnam and Indonesia. Pakistan has even referred to this situation as a once in a lifetime opportunity, although it may be limited by their lack of energy access to increase their spinning industry (capacity).”
+
+
+/**** Barchart specific styles****/
+.barchart { height: 350px; overflow-y: scroll;}
+.marketview{ font-family: arial; font-size: 12px; line-height:20px}
+.marketview_quoteboard{ font-family: arial; font-size: 12px;}
+.marketview_header{font-family: arial; font-size: 12px; font-weight:bold; text-align:center;}
+.marketview_topheader{ color:#333333;
+ font-family:"Times New Roman",Times,serif;
+ font-size:11px;
+ font-weight:bold;
+ line-height:12px;
+ margin-bottom:3px;
+ padding:0 0 3px;
+ display: none; /* Penton addition, duplicate block header */
+ }
+.marketview_title{font-family: arial; font-size: 12px; font-weight:bold;color:#0281D2;}
+.marketview_chart{ font-family: arial; font-size: 12px; }
+.marketview_chart_agg{ font-family: arial; font-size: 12px; }
+.marketview_chart_symbol{ font-family: arial; font-size: 12px; }
+.marketview_symbol{ font-family: arial; font-size: 12px; font-weight:bold; border-top: 1px solid #cccccc;}
+.marketview_symbolinline{ font-family: arial; font-size: 12px; font-weight:normal;}
+.marketview_link{ font-family: arial; font-size: 12px; font-weight:bold; border-top: 1px solid #cccccc; text-align:right}
+.marketview_change{ font-family: arial; font-size: 12px; border-top: 1px solid #cccccc; text-align:right}
+.marketview_quote{ font-family: arial; font-size: 12px;border-top: 1px solid #cccccc;text-align:right}
+.marketview_changeUp{ font-family: arial; color: green; font-size: 12px;border-top: 1px solid #cccccc;text-align:right}
+.marketview_changeDn{ font-family: arial; color: red; font-size: 12px;border-top: 1px solid #cccccc;text-align:right}
+.marketview_changeNone{ font-family: arial; font-size: 12px;border-top: 1px solid #cccccc;text-align:right}
+.marketview_disclaimer{ font-family: arial; font-size: 10px;}
+.marketview_TRe { background-color: white;line-height:20px}
+.marketview_TRo { background-color: white;line-height:20px}
+
+.tooltip {
+ border: 1px solid #999999;
+ padding: 1px;
+ margin: 1px;
+ font-size: 8pt;
+ background-color: #FFFFCC;
+ font-family: arial;
+}
+/* end Barchart */ 
+
+
+
+<br />.nice-menu .cols-2 .listCol1, .nice-menu .cols-2 .listCol2, .nice-menu .cols-3 .listCol1, .nice-menu .cols-3 .listCol2, .nice-menu .cols-3 .listCol3 { width: 166px; } 

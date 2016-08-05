@@ -1,0 +1,14 @@
+2013-07~12
+http://news.softpedia.com/news/Despite-Being-Exposed-Cybercriminals-Behind-NetTraveler-Campaign-Continue-Attacks-380072.shtml&c=-KP-AMbHDEmvni9MRDU-B_c8spH3SH_NkUwaG5nt4Sg&mkt=en-us
+
+Despite Being Exposed, Cybercriminals Behind NetTraveler Campaign Continue Attacks
+Back in early June, Kaspersky revealed the existence of a sophisticated cyber espionage campaign dubbed NetTraveler. After their operations were exposed by Kaspersky, the attackers shut down their old infrastructure and moved to new servers in Taiwan, China and Hong Kong.
+However, according to experts, they haven’t put an end to their malicious activities. Kaspersky has observed a couple of recent attacks aimed against Uyghur activists.
+First, researchers spotted spear phishing emails targeted at Uyghur activists. The malicious messages informed recipients of a statement made by a World Uyghur Congress spokesman.
+The link from the email appeared to point to the World Uyghur Congress website, but in reality it led victims to a NetTraveler domain (wetstock[dot]org) set up to host a Java exploit.
+The exploit leveraged a recently fixed Java vulnerability (CVE-2013-2465) to drop a version of the Dorifel malware (Trojan-Dropper.Win32.Dorifel.adyb). The malware is designed to steal information from infected computers and upload it to a remote server.
+In addition to the spear phishing emails, Kaspersky researchers have also spotted a watering hole attack aimed at Uyghur activists.
+The cybercriminals have compromised the website of the Islamic Association of Eastern Turkistan and altered it so that its visitors would be redirected to the same wetstock[dot]org malicious domain.
+“The usage of the Java exploit for CVE-2013-2465 coupled with watering hole attacks is new, previously unseen development for the NetTraveler group,” Kaspersky Lab Expert Costin Raiu noted in a blog post.
+“It obviously has a higher success rate than mailing CVE-2012-0158 exploit-ridden documents, which was the favorite attack vector until now. We estimate that more recent exploits will be integrated and used against the group’s target,” Raiu added.
+For the time being, experts haven’t identified any zero-day vulnerabilities being utilized in the NetTraveler attacks.

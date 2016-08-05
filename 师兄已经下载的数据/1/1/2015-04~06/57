@@ -1,0 +1,20 @@
+2015-04~06
+http://www.theregister.co.uk/2015/06/16/chinese_circumvent_web_privacy_javascript/
+
+Chinese snoops try tracking VPN users with fiendish JSONP trickery • The Register
+Snoops are exploiting vulnerabilities in China’s most frequented websites to target individuals accessing web content which state censors have deemed hostile.
+Even users who run VPN connections to access websites that are blocked by China’s censorship technology, often called the Great Firewall (GFW), are potentially being tracked.
+The attacks exploits vulnerabilities in the top Chinese websites, including those run by Baidu and Alibaba, and use cross-site request forgery to expose users accessing restricted sites. These restricted sites have been hacked and booby-trapped with malicious code in order to make the attack work.
+The whole multi-stage attack relies on a JavaScript-related vulnerability, known as JSONP, first publicised in 2013. Privacy is compromised when surfers browse sensitive websites while logged into another mainstream website, even in a different tab or window.
+The upshot is that Chinese surfers who visit Baidu, for example, at the same time as visiting targeted non-government organisation, Uyghur and Islamic websites are exposing their surfing habits even if they are using a VPN.
+The snooping has been going on since at least October 2013, with the most recent attack discovered only a few days ago, reports security tools firm AlienVault.
+The trickery allows what looks like state-sponsored hackers to vacuum up private information, including user ID and (in some cases) real names before uploading this information to an attacker-controlled server.
+All of the Watering Holes that we have observed are targeting Chinese users visiting Uyghur or Islam-related websites or NGOs sympathetic to freedom of speech.
+It looks like this campaign has been targeting a very small group of people, and since there is no financial gain on collecting most of the leaked personal data, we can say that whoever is behind these attacks is looking to reveal the identity of the users visiting certain websites.
+Another point is that some of the affected websites are hosted outside of China, and the Great Firewall likely blocks some of those sites.
+Anonymity is the idea of being ‘non-identifiable’ or un-trackable, but ... it is hard to remain anonymous if you are using services where you have revealed personal information and you browse other sites that can exploit vulnerabilities to access your personal information.
+JSONP is a widely used technique to make cross-domain JavaScript requests that bypass the same-origin policy. However, bypassing the same-origin policy can lead to information leakage between different origins or domains.
+Since JSONP requests/responses bypass the same-origin policy, malicious sites can cause victims to make cross-domain JSONP requests and read the private data using the “script” tag.
+The GFW is able to analyze and block traffic that is leaving China, although these controls can be circumvented by Chinese users running VPNs or TOR. In these cases, the GFW doesn’t have full visibility into the traffic that goes through VPNs or TOR.
+VPN users are more at risk than Tor browser users because of restrictions in handling JavaScript by the latter, as pointed out by the Tor Project, and reflected in an update to AlienVaultult’s blog post.
+The hacking attack outlined by AlienVault lifts the veil of anonymity, at least partially. Even if the only data the attackers can obtain is a user ID for a specific website, this information can be used to pinpoint targets for espionage. ®

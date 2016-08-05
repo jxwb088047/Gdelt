@@ -1,0 +1,23 @@
+2014-07~09
+http://arstechnica.com/security/2014/08/new-study-activists-pose-easy-target-for-nation-state-attackers/
+
+New study: Activists pose easy target for nation-state attackers | Ars Technica
+
+ by Robert Lemos
+ - Aug 12, 2014 7:30 pm UTC
+
+Lean operations and a lack of technical staff make non-governmental organizations a prime, and relatively soft, target for well-funded adversaries, according to an academic study of a four-year campaign targeting one such group.
+In a paper to be delivered at the USENIX Security Conference next week, six academic researchers analyzed nearly 1,500 suspicious e-mail messages targeting the World Uyghur Congress (WUC). The team found that, while the malware managed to reliably evade detection by many antivirus programs, the attacks were relatively unsophisticated, using known vulnerabilities that had already been patched. The social engineering tactics, however, were very targeted and convincing, with the majority written in the native language, referring to events of interest to the NGO and appearing to come from known contacts, said Engin Kirda, a professor of computer science at Northeastern University and a co-author of the paper.
+"You read about sophisticated attacks, but the malware that we analyzed was pretty standard," Kirda said. "It was not some ground breaking obfuscation or malware."
+Kirda collaborated with three researchers from the Max Planck Institute for Software Systems and two others from the National University of Singapore on the project. The research underscores that attackers only use the level of technical sophistication necessary to complete their operation, Kirda said.
+Unfortunately, non-governmental organizations tend to be vulnerable to attack. The WUC, which advocates on issues involving the Uyghur Euroasian minority of 10 million people in China, used older versions of Windows, relied on antivirus software, and lacked the technical sophistication found in many enterprises. The group is funded, in part, by the US-based National Endowment for Democracy.
+"The lack of resources is always a problem," Kirda said. "Our aim should be to create technology that will trickle down to people and protect them more completely."
+Almost half the attacks used a real organizational event, such as a conference, as a lure to convince a target to open the attachments. Of the nearly 1,500 e-mails analyzed by the researchers, nearly 1,176 contained malicious attachments, mainly Office documents. The e-mails targeted more than 700 people at 108 different organizations through carbon-copied recipients, including the Australian Uyghur Association, Radio Free Asia, and NASA Jet Propulsion Laboratory.
+Unlike the trend in opportunistic attacks, which generally target vulnerabilities in Java browser plugins, the WUC's attackers started the campaign in 2009 by attaching PDF files with exploits that would compromise systems through Adobe's Acrobat. Soon after, however, the attackers switched to using Microsoft Office documents, which constituted the vector for the lion's share of attacks analyzed by the researchers.
+The WUC has suffered a number of disruptive attacks in the past five years, including a two-week denial-of-service attack on its website in 2011 and a flood of phone calls and more than 15,000 spam messages in a single week.
+About a quarter of the attacks matched the signatures of other operations attributed to nation-state actors, Kirda said. Despite some of the attacks being more than four years old, no antivirus program detected all the malware.
+Organizations that believe they could be targeted by such attacks should take more concrete steps to protect themselves. Upgrading systems to more modern operating systems and regularly patching those systems can help immensely, Kirda said.
+"Make sure you have all the updates; make sure you use a browser that is not standard; and pursue more training—talk about the threat," he said.
+Robert Lemos / Robert Lemos is an award-winning freelance journalist, on assignment as IT security correspondent for Ars Technica. A former research engineer, he covers malware, hacking, cybercrime and enterprise security technology for a number of publications, including Ars Technica, eWEEK, TechTarget and MIT Technology Review.
+India's GreenSIM initiative exposes rural farmers to tech and essential real-time info.
+Ars Technica's Science Editor John Timmer visited the new "Dinosaurs among us" exhibit at the American Museum of Natural History in New York City.

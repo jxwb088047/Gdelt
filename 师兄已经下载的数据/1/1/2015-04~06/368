@@ -1,0 +1,56 @@
+2015-04~06
+http://southeastfarmpress.com/cotton/pick-your-battles-when-it-comes-marketing-cotton
+
+Pick your battles when it comes to marketing cotton | Cotton content from Southeast Farm Press
+SELL THE COTTON crop in portions as the market dictates, and reward the market by selling when the market improves and puts the odds in your favor.
+As we get closer to planting the 2015 cotton crop in most of the Cotton Belt, prices for both old crop and new crop are improving—as we thought and hoped they would. Old crop May futures approach 67 cents and new crop December is at roughly 66 cents.
+Sometimes, cotton marketing is about picking your battles and knowing when the odds are in your favor. No one knows with high certainty what the cotton market will do; all you can do is sell and make decisions armed with the best information available, manage risk and profit to farm another year.
+I believe in two strategies: (1) sell the crop in portions as the market dictates; and (2) reward the market by selling when the market improves and puts the odds in your favor.
+Terrell Jones creates and sells shirts made from his own cotton
+Old crop has clearly broken through what was considered a “ceiling” at 65 cents. This is always considered a positive sign that the market has strengthened. This improvement has been largely fueled by continued strength in export sales, shrinking stocks outside of China, and US and other weather concerns. There is opinion/belief that old crop prices will likely continue to trek higher—particularly for good quality fiber. Such a move would be a “testing ground” for prices. Prices haven’t been above 65 cents for any sustained period of time since last August and September. My advice? Pick your battles.
+April 9’s USDA monthly production and supply/demand numbers were ho-hum but there were some surprises. We’ll have to see if this slows the bull down some. As expected, the US crop was increased slightly from 16.08 to 16.3 million bales. Most analysts expected to see, however, an increase in the export number. That didn’t happen. Projected exports for the 2014 crop year remain at 10.7 million bales. US ending stocks were increased from 4.2 to 4.4 million bales.
+Total World numbers for 2014/15 were essentially unchanged. Worth noting was that China’s imports were increased 200,000 bales and China’s ending stocks were increased slightly. Reports have circulated recently citing a reduction in price support for Xinjiang, a major growing region. Reports have also suggested China cotton acreage and production to be down 20 percent this year.
+The major question is will this mean Chinese mills will utilize more of the countries stocks and/or does it mean China will still have a reasonably good demand for imports of quality cotton? I believe this is key to 2015 crop price direction.
+New crop prices (Dec futures) have improved. We stand at roughly 66 cents as of April 9. Improved prices, although still not where we would like them, delay in planting of corn and other alternative crops, and changes in relative crop prices are already leading some observers to think that actual acres planted will be higher than the 9.55 million number released by USDA on March 31.
+Current cotton marketing strategies for 2015 include waiting for prices to improve further, purchase of December Put Options while we have these better prices, or purchase of March Call Options, particularly if prices weaken from current levels.
+
+
+/**** Barchart specific styles****/
+.barchart { height: 350px; overflow-y: scroll;}
+.marketview{ font-family: arial; font-size: 12px; line-height:20px}
+.marketview_quoteboard{ font-family: arial; font-size: 12px;}
+.marketview_header{font-family: arial; font-size: 12px; font-weight:bold; text-align:center;}
+.marketview_topheader{ color:#333333;
+ font-family:"Times New Roman",Times,serif;
+ font-size:11px;
+ font-weight:bold;
+ line-height:12px;
+ margin-bottom:3px;
+ padding:0 0 3px;
+ display: none; /* Penton addition, duplicate block header */
+ }
+.marketview_title{font-family: arial; font-size: 12px; font-weight:bold;color:#0281D2;}
+.marketview_chart{ font-family: arial; font-size: 12px; }
+.marketview_chart_agg{ font-family: arial; font-size: 12px; }
+.marketview_chart_symbol{ font-family: arial; font-size: 12px; }
+.marketview_symbol{ font-family: arial; font-size: 12px; font-weight:bold; border-top: 1px solid #cccccc;}
+.marketview_symbolinline{ font-family: arial; font-size: 12px; font-weight:normal;}
+.marketview_link{ font-family: arial; font-size: 12px; font-weight:bold; border-top: 1px solid #cccccc; text-align:right}
+.marketview_change{ font-family: arial; font-size: 12px; border-top: 1px solid #cccccc; text-align:right}
+.marketview_quote{ font-family: arial; font-size: 12px;border-top: 1px solid #cccccc;text-align:right}
+.marketview_changeUp{ font-family: arial; color: green; font-size: 12px;border-top: 1px solid #cccccc;text-align:right}
+.marketview_changeDn{ font-family: arial; color: red; font-size: 12px;border-top: 1px solid #cccccc;text-align:right}
+.marketview_changeNone{ font-family: arial; font-size: 12px;border-top: 1px solid #cccccc;text-align:right}
+.marketview_disclaimer{ font-family: arial; font-size: 10px;}
+.marketview_TRe { background-color: white;line-height:20px}
+.marketview_TRo { background-color: white;line-height:20px}
+
+.tooltip {
+ border: 1px solid #999999;
+ padding: 1px;
+ margin: 1px;
+ font-size: 8pt;
+ background-color: #FFFFCC;
+ font-family: arial;
+}
+/* end Barchart */ 

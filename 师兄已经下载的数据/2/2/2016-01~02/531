@@ -1,0 +1,22 @@
+2016-01~02
+https://threatpost.com/researchers-see-uptick-attacks-against-uyghur-users-021413/77532/
+
+Researchers See Spike In Attacks Against Uyghur Users | Threatpost | The First Stop For Security News
+Researchers have noticed a spike in cyberattacks over the past few weeks targeting the Uyghur people, a Turkic ethnic group based primarily in China and Kazakhstan. The attacks have been exploiting a Microsoft Word vulnerability patched in June 2009, according to a Securelist post by Kaspersky Lab Senior Security Researcher Costin Raiu yesterday.
+The attacks happen after Uyghur supporters, particularly members of the World Uyghur Congress, receive a specially rigged Word document via a spear-phishing email. When victims open the file, they’ll see the real document but a second, fake document also pops up that drops a backdoor. The backdoor goes on to steal the user’s contacts, taking advantage of an old Word stack buffer overflow vulnerability (CVE-2009-0563).
+AlienVault Labs, which worked with Kaspersky Labs on the investigation, has posted its account of the espionage campaign, pointing out one of the rigged Word documents is ironically titled “Rise in possible state-sponsored hacking”.
+The Uyghur people are no stranger to malicious online attacks. Last summer Uyghur Mac users were targeted in an APT campaign that unleashed a MaControl Trojan, “Backdoor.OSX.MaControl.b” on their systems. That malware let attackers run commands on the infected computer and allowed attackers access to the victim’s files.
+Tibetan and Uygur human rights groups were also targeted earlier this year by a twofold watering hole campaign. That campaign exploited both a Java and Internet Explorer zero-day and infected machines with a remote control Trojan.
+It probably shouldn’t come as a surprise that many researchers have implicated China in these attacks. Kaspersky Lab researchers traced a command and control server that was communicating with the MaControl Trojan to an IP address in China last summer while researchers at Avast placed the blame on China in a blog entry discussing the watering hole attacks last month.
+China has long viewed the Uyghur people as aggressors; a decade ago it even labeled the World Uyghur Congress as a terrorist organizations, claiming it was inciting unrest in the Xinjiang region of the People’s Republic.
+"Distrust and caution are the parents of security" - Benjamin Franklin
+Strong fences make good neihbors. There are good neihgbors and bad ones. The world wide web NEEDS strong fences, gates, and good gate keepers. I think “Bad neighbors” convinced the world we don’t need fences, or doors. How gullable are we?
+lay with dogs, don’t complain about the fleas nor the bugs in your space.
+A new type of malware that targets Steam accounts has proliferated the gaming service and become a “booming business” for cybercriminals over the last few months.
+Early detection of the KeRanger OS X ransomware and quick updates by Apple and the Transmission BitTorrent client installer likely will mitigate the malware’s impact.
+A group of security companies today published evidence linking the Sony hack, Dark Seoul and Operation Troy to the Lazarus Group.
+Getting from Cancun in Mexico to Sanya in China, will never be one of the simplest routes – even given the most favorable of weather conditions. All the same, it will never be one of the longest. Stil...
+This year, we had the absolute pleasure of being a part of CanSecWest’s fantastic lineup of talks, well-rewarded pwnage, and entertainment among a jovial crowd of infosec practitioners of every stripe...
+What happens when real cyber experts head to TV to stop cybercrime?
+The vast majority of targeted attacks begin with simple steps; spear-phishing with malicious attachments or clickable links, or the infection of employees' favorite websites (water-holing) to penetrat...
+The appearance of contactless bank cards came as no surprise. Near Field Communication (NFC) technology allows you to simply touch a payment terminal with your wallet without having to take your bank ...

@@ -1,0 +1,21 @@
+2013-07~12
+http://www.theepochtimes.com/n3/244077-dalai-lama-website-hacked/
+
+Dalai Lama Website Hacked
+Tibetans monks hold placards during a protest rally in New Delhi on Jan. 31, 2013. The hacker attack on the Tibetan government in exile’s website was similar to ongoing attacks by China on other groups. (Raveendran/AFP/Getty Images)
+The official Chinese language website of the Central Tibetan Administration (CTA), Tibet’s government in exile, is the most recent victim of hackings against dissident groups, which experts attribute to Chinese hackers.
+Tibet.net has been compromised by hackers who injected malicious software into the site, attempting to infiltrate visitors’ computers. The attack did not affect either the English or Tibetan versions.
+The attack on the CTA’s website has been contained, and the exile government’s spokesperson, Tashi Phuntsok, told Reuters that technicians were able to restore the website early on Tuesday, said Phayul, another Tibet in exile website.
+“At this point in time, it seems that the few systems attacked with this code are located in China and the US, although there could be more,” said Kurt Baumgartner, a Kaspersky Lab expert.
+Baumgartner said the hackers attempted to lure the CTA users to other websites using a method known as a “watering-hole attack”, where their computers would be infected. A security bug in Java could then possibly give the hackers a “back door” into the users’ computers.
+“This is the initial foothold,” Baumgartner said. “From there they can download arbitrary files and execute them on the system”.
+Tibetans have been the target of hacking for years, Baumgartner told TechWeekEurope, often using this watering hole attack.
+Researchers at the global security software company ESET said in May 2012 that they discovered malware targeting Tibetan activists which could have been working unnoticed for several years. The threat bore characteristics very similar to previous campaigns of espionage against Tibetan activists but used different methods to evade detection on infected systems. The infection was small and strictly limited to Nepal and China.
+Alexis Dorais-Joncas, Security Intelligence Team Lead at ESET said that it was possible to “affirm that the various characteristics observed around this threat are similar to other espionage campaigns against Tibetan activists that we have observed.”
+Students for a Free Tibet (SFT) were also targeted by a malicious email attack. Citizen Lab, a University of Toronto project involved in a study of cyber threats against human rights organizations, identified characteristics of the attack that made it possible to be traced to China, suggesting that the hacker group may be the 2nd Bureau of the People’s Liberation Army.
+The Tibetans are not the only group being targeted by China’s hacker teams. Other groups that are considered a threat to the Chinese Communist Party are under persistent attack.
+Hackers have attacked the websites of a wide range of groups for over a year, including Falun Dafa, a spiritual practice, and and even military groups in nearby nations, TechWeekEurope said in July.
+Users and entities based in the Philippines and Vietnam are also targeted, according to data collected by security company AlienVault Labs and given to TechWeekEurope. The security company believes Chinese hackers are behind the hits, saying that not only Falun Dafa, but minorities in China were being hit, not going into further detail.
+“We have seen similar behaviour in attacks against Tibetans,” Jaime Blasco, who heads up the AlienVault team, told TechWeek Europe. “Based on the data I see on a daily basis, the number of attacks against activists has been increasing in the last few years.”
+Mac malware was being used to target people supporting human rights for the Uyghur people in China, Kaspersky Labs revealed in July 2012. According to Kaspersky, victims were sent an email containing a new, mostly undetected version of a backdoor Trojan, which supported both i386 and PowerPC Macs.
+Though evidence shows groups in China of being behind these attacks, Beijing has constantly denied having any involvement.

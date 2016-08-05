@@ -1,0 +1,19 @@
+2016-01~02
+http://www.infosecurity-magazine.com/news/scarlet-mimic-threat-group-takes/
+
+Scarlet Mimic Threat Group Takes Aim at Chinese Dissidents - Infosecurity Magazine
+
+ Cookies enable us to provide the best experience possible and help us understand
+ how visitors use our website. 
+ By browsing Infosecurity Magazine, you agree to our use of cookies.
+
+Security experts are warning of a new multi-year advanced cyber espionage campaign targeted against Uyghur and Tibetan activists as well as Russian and India anti-terrorist agencies.
+The so-called “Scarlet Mimic” group has been operating since 2009, using spear phishing and watering hole attacks to infect users.
+It has exploited five separate vulnerabilities in its spear phishing efforts, explained Palo Alto Networks in a lengthy post detailing the group.
+“However, in many cases they chose to forgo exploiting a software vulnerability and used self-extracting (SFX) RAR archives that use the Right-to-Left Override character to mask the true file extension, tricking victims into opening executable files,” the vendor added.
+“As with many other attackers who use spear-phishing to infect victims, Scarlet Mimic makes heavy use of ‘decoy’ files. These are legitimate documents that contain content relevant to the subject of the spear phishing e-mail. After the system is infected, the malware displays the decoy document to trick the user into believing nothing harmful has occurred. These decoy documents allow us to identify the theme of the spear phishing e-mail and in some cases the target of the attack.”
+Another major theme running through Scarlet Mimic attacks is the use of a Windows backdoor first discovered by Trend Micro in 2013 and dubbed ‘FakeM’, whose C&C traffic apes Windows Messenger and Yahoo Messenger traffic to bypass traditional filters.
+Palo Alto discovered two new variants of the backdoor in its analysis and nine separate loader trojans used to avoid detection.
+The group has also branched out into mobile malware with attacks on Android devices, as well as OS X machines.
+Although the security vendor fell short of direct attribution to the Chinese government, it admitted that the main targets of the group – Uyghur and Tibetan activists – have “a history of strained relationships” with Beijing.
+Some elements of the research, such as the discovery of FakeM, have been noted by security teams in the past but Palo Alto claimed to have brought together previously disparate strands to attribute to Scarlet Mimic.
